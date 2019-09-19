@@ -5,3 +5,8 @@ out
 classes
 getopts.i*
 
+# eclipse
+.classpath
+.project
+target/
+.settings/
